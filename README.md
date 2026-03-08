@@ -22,7 +22,7 @@ A simple Java Swing application that helps track lost and found items.
 
   -Local file storage using a text file
 
-
+![Application Preview](app_preview.png)
 
 * **Technology:**
 
@@ -33,4 +33,5 @@ Java
 Swing (GUI)
 
 File Handling
+
 
